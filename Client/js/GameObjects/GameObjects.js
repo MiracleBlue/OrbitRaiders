@@ -8,9 +8,20 @@ define([
 	ScoutShip
 ) {
 	// Set up ships
-	return function() {
-		this.ships = {
-			ScoutShip: ScoutShip
+	return Backbone.DeepModel.extend({
+		defaults: {
+			ships: null,
+			world: null
+		},
+		initialize: function() {
+			var ships = {
+				ScoutShip: ScoutShip
+			};
+			
+			var world = new Backbone.Collection();
+
+			this.set("ships", ships);
+			console.log("ships!  ", this.get("ships"));
 		}
-	};
+	})
 });

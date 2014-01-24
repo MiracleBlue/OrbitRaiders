@@ -1,9 +1,15 @@
 define([
-
+	"../BaseShip/BaseShip"
 ], function(
-
+	BaseShip
 ) {
-	return function() {
-		this.foo = "bar";
-	}
+	return BaseShip.extend({
+		defaults: {
+			class: "ScoutShip",
+			name: "Scout Ship"
+		},
+		initialize: function() {
+			console.log("Scout!");
+		}
+	});
 });

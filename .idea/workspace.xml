@@ -26,43 +26,43 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Client/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="7" selection-start="512" selection-end="512" vertical-scroll-proportion="-12.16" vertical-offset="0" max-vertical-offset="400">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="socket.io.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Client/libs/socketio/socket.io.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="311" selection-end="311" vertical-scroll-proportion="0.0" vertical-offset="192" max-vertical-offset="62048">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Client/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="86" selection-end="86" vertical-scroll-proportion="0.0" vertical-offset="64" max-vertical-offset="528">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Client/js/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="17" selection-start="50" selection-end="50" vertical-scroll-proportion="0.03532009" vertical-offset="0" max-vertical-offset="906">
+            <state line="20" column="69" selection-start="619" selection-end="619" vertical-scroll-proportion="-12.8" vertical-offset="0" max-vertical-offset="480">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Server/app.js">
+        <entry file="file://$PROJECT_DIR$/Client/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="54" selection-end="54" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+            <state line="18" column="9" selection-start="429" selection-end="429" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="448">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseShip.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Client/js/GameObjects/Ships/BaseShip/BaseShip.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="30" selection-start="245" selection-end="245" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="352">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseObject.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Client/js/GameObjects/BaseObject.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="9" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gameEngine.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Client/js/gameEngine.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="3" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="256">
               <folding />
             </state>
           </provider>
@@ -97,13 +97,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GameObjects.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="GameObjects.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Client/js/GameObjects/GameObjects.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="6" selection-start="375" selection-end="375" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="336">
+            <state line="19" column="12" selection-start="470" selection-end="470" vertical-scroll-proportion="0.33554083" vertical-offset="0" max-vertical-offset="906">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
-                <marker date="1390551422191" expanded="true" signature="202:252" placeholder="[...]" />
               </folding>
             </state>
           </provider>
@@ -112,7 +111,7 @@
       <file leaf-file-name="Scout.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Client/js/GameObjects/Ships/Scout/Scout.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="3" selection-start="75" selection-end="75" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="224">
+            <state line="13" column="7" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="320">
               <folding />
             </state>
           </provider>
@@ -138,10 +137,12 @@
         <option value="$PROJECT_DIR$/Client/libs/require/require.min.js" />
         <option value="$PROJECT_DIR$/Client/js/config.js" />
         <option value="$PROJECT_DIR$/Client/js/gameEngine.js" />
-        <option value="$PROJECT_DIR$/Client/index.html" />
-        <option value="$PROJECT_DIR$/Client/js/GameObjects/GameObjects.js" />
+        <option value="$PROJECT_DIR$/Client/js/GameObjects/BaseObject.js" />
+        <option value="$PROJECT_DIR$/Client/js/GameObjects/Ships/BaseShip/BaseShip.js" />
         <option value="$PROJECT_DIR$/Client/js/GameObjects/Ships/Scout/Scout.js" />
         <option value="$PROJECT_DIR$/Client/js/app.js" />
+        <option value="$PROJECT_DIR$/Client/index.html" />
+        <option value="$PROJECT_DIR$/Client/js/GameObjects/GameObjects.js" />
       </list>
     </option>
   </component>
@@ -348,6 +349,36 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OrbitRaiders" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OrbitRaiders" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GameObjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ships" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BaseShip" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -447,10 +478,10 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18020834" sideWeight="0.67060083" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32939914" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32832617" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -479,18 +510,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Client/js/gameEngine.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="19" selection-start="219" selection-end="219" vertical-scroll-proportion="0.0" vertical-offset="160" max-vertical-offset="256">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="582" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Client/libs/jquery/jquery-1.10.2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="29" column="35" selection-start="978" selection-end="978" vertical-scroll-proportion="0.49656358" vertical-offset="0" max-vertical-offset="165342">
@@ -526,37 +545,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Client/js/gameEngine.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="19" selection-start="219" selection-end="219" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="256">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Client/js/GameObjects/Ships/Scout/Scout.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="3" selection-start="75" selection-end="75" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="224">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Client/js/GameObjects/GameObjects.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="6" selection-start="375" selection-end="375" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="336">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <marker date="1390551422191" expanded="true" signature="202:252" placeholder="[...]" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Server/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="54" selection-end="54" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Server/game.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="3" selection-start="504" selection-end="504" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="336">
@@ -580,17 +568,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Client/index.html">
+    <entry file="file://$PROJECT_DIR$/Client/js/gameEngine.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="7" selection-start="512" selection-end="512" vertical-scroll-proportion="-12.16" vertical-offset="0" max-vertical-offset="400">
+        <state line="8" column="3" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="256">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="54" selection-end="54" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client/js/GameObjects/BaseObject.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="9" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client/js/GameObjects/Ships/BaseShip/BaseShip.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="30" selection-start="245" selection-end="245" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="352">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client/js/GameObjects/Ships/Scout/Scout.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="7" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="320">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Client/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="17" selection-start="50" selection-end="50" vertical-scroll-proportion="0.03532009" vertical-offset="0" max-vertical-offset="906">
+        <state line="18" column="9" selection-start="429" selection-end="429" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="448">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="69" selection-start="619" selection-end="619" vertical-scroll-proportion="-12.8" vertical-offset="0" max-vertical-offset="480">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client/js/GameObjects/GameObjects.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="12" selection-start="470" selection-end="470" vertical-scroll-proportion="0.33554083" vertical-offset="0" max-vertical-offset="906">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
