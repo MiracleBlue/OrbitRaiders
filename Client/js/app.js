@@ -1,6 +1,6 @@
 // Main application module
 define([
-	'./gameEngine.js',
+	'./gameEngine',
 	'./GameObjects/GameObjects'
 ], function(
 	GameEngine,
